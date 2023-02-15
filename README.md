@@ -84,16 +84,19 @@ OUTPUT:
 OUTPUT:
 
 ![img](https://github.com/ChinmayaGit/Advance_Java/blob/main/Output/A3Q2_Output.png)
+
 3) Implement Method overriding and overloading.
 
 OUTPUT:
 
 ![img](https://github.com/ChinmayaGit/Advance_Java/blob/main/Output/A3Q3_Output.png)
+
 4) Create a package cal_data. Write down functions for mathematical functions like area,square,cube etc.
 
 OUTPUT:
 
 ![img]()
+
 5) Use Above package and use all methods in it.
 
 OUTPUT:
