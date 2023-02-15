@@ -59,13 +59,13 @@ OUTPUT:
 
 ![img](https://github.com/ChinmayaGit/Advance_Java/blob/main/Output/A2Q4_Output.png)
 
-6) Implement inheritance. Use Super keyword.
+5) Write an program that creates package named EMP. Add Class EMP_Dtls in it and display emp information. 
 
 OUTPUT:
 
 ![img](https://github.com/ChinmayaGit/Advance_Java/blob/main/Output/A2Q5_Output.png)
 
-5) Write an program that creates package named EMP. Add Class EMP_Dtls in it and display emp information. 
+6) Implement inheritance. Use Super keyword.
 
 OUTPUT:
 
